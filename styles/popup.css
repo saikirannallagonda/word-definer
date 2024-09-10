@@ -1,0 +1,8 @@
+body {
+  font-family: monospace;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+  background-color: lightblue;
+}
